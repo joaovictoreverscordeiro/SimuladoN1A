@@ -88,7 +88,7 @@ dt=ndt*mdt
 valuesdv=['0.1','0.25', '0.5', '0.75', '1','2','1.5']
 strdv=str(input('Digite uma das escalas permitidas para a voltagem: ').strip())
 
-for i in range(5):
+for i in range(7):
     if strdv==valuesdv[i]:
         dv=float(valuesdv[i])
     else:

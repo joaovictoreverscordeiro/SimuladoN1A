@@ -22,7 +22,7 @@ Digite a amplitude de voltagem V0 (sem unidade; range: 0 a 15.0): 7
 Digite uma das escalas permitidas para o tempo: 1 ms
 Digite uma das escalas permitidas para a voltagem: 2
 
-Clique ENTER para encerrar o programa.
+Clique ENTER para reiniciar a simulação.
 ```
 
 Abaixo, cada item corresponde a uma linha do `Terminal` acima.
